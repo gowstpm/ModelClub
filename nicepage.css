@@ -42207,7 +42207,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-menu-1 {
-    margin-top: 8px;
+    width: -webkit-fill-available;
   }
 
   .u-header .u-image-1 {
