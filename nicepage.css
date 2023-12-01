@@ -42173,8 +42173,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-image-1 {
-    height: 125px;
-    margin-top: 31px;
+    display: none;
   }
 }
 @media (max-width: 991px) {
