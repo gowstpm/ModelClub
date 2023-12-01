@@ -42140,7 +42140,12 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: 1px auto 0;
+    margin: 1px auto 0;
+    position: fixed;
+    width: -webkit-fill-available;
+    z-index: 9999;
+    text-align: center;
+    background-color: white;
 }
 
 .u-header .u-nav-1 {
