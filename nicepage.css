@@ -42210,10 +42210,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-image-1 {
-    height: 58px;
-    margin-top: 6px;
-    margin-bottom: 29px;
-    object-position: 60.33% 50%;
+    display: none;
   }
 }
  .u-footer {
