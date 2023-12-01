@@ -42145,7 +42145,7 @@ a.u-link.u-text-hover-grey-90:hover {
     width: -webkit-fill-available;
     z-index: 9999;
     text-align: center;
-    background-color: white;
+    background-color: white; 
 }
 
 .u-header .u-nav-1 {
